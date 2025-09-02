@@ -1,2 +1,5 @@
 mlflow_env/
 *.png
+creditcard.csv
+mlruns
+mlartifacts
