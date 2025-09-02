@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/558630297903404079/83d9b3aea92e4ad9bac49b440c34ef14/artifacts
+end_time: 1756818856710
+entry_point_name: ''
+experiment_id: '558630297903404079'
+lifecycle_stage: active
+run_id: 83d9b3aea92e4ad9bac49b440c34ef14
+run_name: masked-eel-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756818853453
+status: 3
+tags: []
+user_id: user

@@ -28,7 +28,7 @@ services:
       retries : 3
 
   mlflow:
-    image: mlflow_server
+    image: mlflow/mlflow:2.12.1
     container_name : mlflow
     ports:
       - ${MLFLOW_PORT}:5000  
